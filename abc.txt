@@ -3,4 +3,4 @@ abc line added
 new line added at master/local
 This is nw line added for merge at master ##local
 This is testing line added at remote repo ##remote
-This is code
+This is codee
