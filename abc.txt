@@ -1,1 +1,2 @@
 abc line added
+new line added at master/local
