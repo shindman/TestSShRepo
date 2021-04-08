@@ -2,4 +2,9 @@ Test text
 new line added on remote for testing.
 ##add new code here
 This is new code line added.
+<<<<<<< HEAD
 This is new1 code line added.
+=======
+
+This is new2 line has been added in remote repo. ##added at remote
+>>>>>>> 94877513cc20a985a8b126350d73bcd341ddb7a0
